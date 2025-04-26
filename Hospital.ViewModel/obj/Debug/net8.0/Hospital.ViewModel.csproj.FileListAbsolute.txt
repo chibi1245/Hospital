@@ -1,0 +1,30 @@
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\bin\Debug\net8.0\Hospital.ViewModel.deps.json
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\bin\Debug\net8.0\Hospital.ViewModel.dll
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\bin\Debug\net8.0\Hospital.ViewModel.pdb
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\bin\Debug\net8.0\Hospital.Model.dll
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\bin\Debug\net8.0\Hospital.Model.pdb
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.ViewModel.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.ViewModel.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.ViewModel.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.D53D9497.Up2Date
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.ViewModel.dll
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\obj\Debug\net8.0\refint\Hospital.ViewModel.dll
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.ViewModel.pdb
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.ViewModel\obj\Debug\net8.0\ref\Hospital.ViewModel.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\bin\Debug\net8.0\Hospital.ViewModel.deps.json
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\bin\Debug\net8.0\Hospital.ViewModel.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\bin\Debug\net8.0\Hospital.ViewModel.pdb
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\bin\Debug\net8.0\Hospital.Model.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\bin\Debug\net8.0\Hospital.Model.pdb
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.ViewModel.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.ViewModel.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.ViewModel.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.D53D9497.Up2Date
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.ViewModel.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\obj\Debug\net8.0\refint\Hospital.ViewModel.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\obj\Debug\net8.0\Hospital.ViewModel.pdb
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.ViewModel\obj\Debug\net8.0\ref\Hospital.ViewModel.dll

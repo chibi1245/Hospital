@@ -1,0 +1,38 @@
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.deps.json
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.runtimeconfig.json
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.dll
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.pdb
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Model.dll
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.ViewModel.dll
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Model.pdb
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.ViewModel.pdb
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.043409E1.Up2Date
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.dll
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\refint\Hospital.Repositories.dll
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.pdb
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Repositories\obj\Debug\net8.0\ref\Hospital.Repositories.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.deps.json
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.runtimeconfig.json
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Repositories.pdb
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Model.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.ViewModel.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.Model.pdb
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\bin\Debug\net8.0\Hospital.ViewModel.pdb
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.043409E1.Up2Date
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\obj\Debug\net8.0\refint\Hospital.Repositories.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.pdb
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\obj\Debug\net8.0\Hospital.Repositories.genruntimeconfig.cache
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Repositories\obj\Debug\net8.0\ref\Hospital.Repositories.dll

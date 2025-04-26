@@ -1,0 +1,222 @@
+:root {
+    --primary: #155d27; /* Deeper Green for medical trust */
+    --secondary: #1b8f49; /* Brighter Green */
+    --accent: #e0f2e9; /* Soft Light Green background */
+    --text-dark: #0a3d25;
+    --text-light: #ffffff;
+    --hover-color: #a8dadc;
+    --click-color: #ff5733;
+    --trans: all 0.3s ease-in-out;
+    --dark-bg: #ff69b4; /* Pink background for dark mode */
+    --dark-text: #0a3d25;
+    --toggle-dark-bg: #ff69b4; /* Pink for dark mode toggle */
+    --table-border: #1b8f49;
+    --table-header: #155d27;
+    --table-row-hover: #d4edda;
+    --table-row-selected: #ffcc00; /* Highlight color for selected row */
+    --input-border: #1b8f49;
+    --input-focus: #155d27;
+    --button-hover: #1b8f49;
+}
+
+html {
+    font-size: 18px;
+    font-weight: normal;
+    background: var(--accent);
+    color: var(--text-dark);
+    font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+body.custom-theme {
+    background-color: var(--accent);
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+    transition: var(--trans);
+}
+
+body.dark-theme {
+    background-color: var(--dark-bg);
+    color: var(--dark-text);
+}
+
+.navbar {
+    background-color: var(--primary) !important;
+    border-bottom: 5px solid var(--secondary);
+    padding: 1rem 0;
+    transition: var(--trans);
+}
+
+    .navbar .nav-link {
+        color: var(--text-light) !important;
+        font-weight: bold;
+        transition: var(--trans);
+    }
+
+        .navbar .nav-link:hover {
+            color: var(--hover-color) !important;
+        }
+
+        .navbar .nav-link:active {
+            color: var(--click-color) !important;
+        }
+
+.footer {
+    background-color: var(--primary);
+    color: var(--text-light);
+    padding: 15px 0;
+    text-align: center;
+    display: none; /* Hide footer by default */
+}
+
+    .footer.show {
+        display: block; /* Show footer when needed */
+    }
+
+#themeToggle {
+    background-color: var(--toggle-dark-bg);
+    color: var(--text-light);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    transition: var(--trans);
+}
+
+    #themeToggle:hover {
+        background-color: var(--secondary);
+    }
+
+.card {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 25px;
+    border-radius: 14px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+    border: 1px solid var(--primary);
+    transition: var(--trans);
+}
+
+    .card:hover {
+        transform: scale(1.05);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+
+button.normal {
+    font-size: 18px;
+    font-weight: 600;
+    padding: 14px 32px;
+    color: var(--text-light);
+    background-color: var(--primary);
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    transition: var(--trans);
+}
+
+    button.normal:hover {
+        background-color: var(--button-hover);
+    }
+
+/* Table Styling */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: left;
+    border: 2px solid var(--table-border);
+}
+
+    .table thead {
+        background-color: var(--table-header);
+        color: var(--text-light);
+    }
+
+    .table th, .table td {
+        padding: 12px;
+        border-bottom: 1px solid var(--table-border);
+    }
+
+    .table tbody tr:nth-child(even) {
+        background-color: var(--hover-color);
+    }
+
+    .table tbody tr:hover {
+        background-color: var(--table-row-hover);
+        transition: var(--trans);
+    }
+
+    .table tbody tr.selected {
+        background-color: var(--table-row-selected) !important;
+    }
+
+/* Form Styling */
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+    form .form-group {
+        margin-bottom: 15px;
+    }
+
+        form .form-group label {
+            font-weight: bold;
+            color: var(--text-dark);
+        }
+
+        form .form-group input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid var(--input-border);
+            border-radius: 5px;
+            transition: var(--trans);
+        }
+
+            form .form-group input:focus {
+                border-color: var(--input-focus);
+                outline: none;
+                box-shadow: 0 0 5px var(--input-focus);
+            }
+
+    form .btn-primary {
+        background-color: var(--primary);
+        color: var(--text-light);
+        padding: 10px 15px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: var(--trans);
+    }
+
+        form .btn-primary:hover {
+            background-color: var(--button-hover);
+        }
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+header, .card, button.normal, .table, form {
+    animation: fade-in 1s ease-in-out;
+}
+
+/* JavaScript to highlight table row on click */
+

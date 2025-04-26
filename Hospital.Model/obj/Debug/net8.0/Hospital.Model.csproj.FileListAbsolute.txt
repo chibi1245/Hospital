@@ -1,0 +1,24 @@
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Model\bin\Debug\net8.0\Hospital.Model.deps.json
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Model\bin\Debug\net8.0\Hospital.Model.dll
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Model\bin\Debug\net8.0\Hospital.Model.pdb
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Model\obj\Debug\net8.0\Hospital.Model.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Model\obj\Debug\net8.0\Hospital.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Model\obj\Debug\net8.0\Hospital.Model.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Model\obj\Debug\net8.0\Hospital.Model.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Model\obj\Debug\net8.0\Hospital.Model.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Model\obj\Debug\net8.0\Hospital.Model.dll
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Model\obj\Debug\net8.0\refint\Hospital.Model.dll
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Model\obj\Debug\net8.0\Hospital.Model.pdb
+C:\Users\TOSHIBA\source\repos\Hospital\Hospital.Model\obj\Debug\net8.0\ref\Hospital.Model.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Model\bin\Debug\net8.0\Hospital.Model.deps.json
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Model\bin\Debug\net8.0\Hospital.Model.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Model\bin\Debug\net8.0\Hospital.Model.pdb
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Model\obj\Debug\net8.0\Hospital.Model.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Model\obj\Debug\net8.0\Hospital.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Model\obj\Debug\net8.0\Hospital.Model.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Model\obj\Debug\net8.0\Hospital.Model.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Model\obj\Debug\net8.0\Hospital.Model.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Model\obj\Debug\net8.0\Hospital.Model.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Model\obj\Debug\net8.0\refint\Hospital.Model.dll
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Model\obj\Debug\net8.0\Hospital.Model.pdb
+C:\Users\TOSHIBA\source\new work\Hospital\Hospital.Model\obj\Debug\net8.0\ref\Hospital.Model.dll
